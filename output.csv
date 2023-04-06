@@ -1,0 +1,13 @@
+bounce_number,time_of_bounce,quadrant_of_bounce,frame_number
+1,0.81,out_of_bound,49
+2,1.603,out_of_bound,97
+3,2.958,3,179
+4,5.37,1,325
+5,6.378,out_of_bound,386
+6,8.839,4,535
+7,12.012,out_of_bound,727
+8,14.821,out_of_bound,897
+9,15.333,1,928
+10,16.935,out_of_bound,1025
+11,18.009,4,1090
+12,20.124,4,1218
